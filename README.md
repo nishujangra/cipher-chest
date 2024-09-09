@@ -19,8 +19,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simple-password-manager.git
-   cd simple-password-manager
+   git clone https://github.com/nishujangra/cipher-chest.git
+   cd cipher-chest
    ```
 
 2. **Install dependencies**:
