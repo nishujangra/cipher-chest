@@ -8,6 +8,7 @@ const Navbar = () => {
                     <span className="text-green-600"> Chest /&gt;</span>
                 </div>
                 <button 
+                    onClick={() => window.open('https://github.com/nishujangra/cipher-chest', '_blank')}
                     className="text-white flex gap-4 hover:bg-green-600 bg-green-700 p-2 rounded-lg ring-white ring-2 ring-opacity-50"
                 >
                     <img className="w-6" src="/git.svg" alt="github" />
